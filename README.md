@@ -1,2 +1,2 @@
 # STTR
-all code will be released soon
+code is based on fairseq-0.8.0
